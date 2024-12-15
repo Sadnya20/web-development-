@@ -1,0 +1,42 @@
+.title {
+  margin: 40px;
+  color: rgb(133, 74, 230);
+}
+
+body {
+  background-color: bisque;
+  margin-left: 180px;
+}
+
+.input {
+  height: 40px;
+  width: 244px;
+  margin-bottom: 5px;
+  border: 2px solid black;
+  border-radius: 5px;
+}
+
+#clear {
+  background-color: #DA3830;
+}
+
+.button {
+  height: 50px;
+  width: 60px;
+  border: 2px solid black;
+  border-radius: 5px;
+  background-color: #9F52AF;
+}
+
+#container {
+  height: 200px;
+  width: 300px;
+}
+
+.operation {
+  height: 50px;
+  width: 60px;
+  border: 2px solid black;
+  border-radius: 5px;
+  background-color: #584043;
+}
